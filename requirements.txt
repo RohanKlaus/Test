@@ -1,0 +1,5 @@
+pandas
+scikit-learn
+openpyxl
+streamlit
+pickle5  # if using Python version < 3.8
